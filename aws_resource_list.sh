@@ -4,7 +4,7 @@
 # Author: Shubhankar Biswas
 # Version: v0.0.1
 
-# Script to automate the process of listing all the resources in an AWS account
+## Script to automate the process of listing all the resources in an AWS account
 #
 # Below are the services that are supported by this script:
 # 1. EC2
